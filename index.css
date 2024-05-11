@@ -13,7 +13,8 @@
     padding: 0;
 }
 #header-title {
-    border-bottom: 1px solid black; /* Add a thin black border line */
+    border: 1px solid black; /* add a border */
+    
 }
 
 .nav-flex-row li {
